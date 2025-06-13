@@ -1,0 +1,19 @@
+venv/
+_pycache_/
+.env
+fridge-chef-frontend/node_modules/
+*.py[cod]
+*.pyo
+*.pyd
+.coverage
+htmlcov/
+*.log
+build/
+dist/
+.env.local
+.env.development
+.env.production
+.DS_Store
+.vscode/
+.idea/
+fridge images/
