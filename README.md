@@ -65,6 +65,7 @@ git clone https://github.com/your-username/fridgechef.git
 cd fridgechef
 ```
 2. Install dependencies
+   
 ***Frontend***:
 ```
 cd fridge-chef-frontend
