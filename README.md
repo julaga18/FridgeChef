@@ -77,13 +77,13 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
-4. Set enviroment variables
+3. Set enviroment variables
 Create a .env file in the project directory:
 ```
 SPOONACULAR_API_KEY=your_spoonacular_api_key
 GOOGLE_API_KEY=your_gemini_api_key
 ```
-6. Run the app locally
+4. Run the app locally
 
 
 
