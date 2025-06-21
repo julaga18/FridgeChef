@@ -57,5 +57,35 @@ Styling: Tailwind CSS
 API Communication: Axios
 Icons: Lucide React
 
+## Installation Instructions
+
+1. Clone the repository
+```
+git clone https://github.com/your-username/fridgechef.git
+cd fridgechef
+```
+2. Install dependencies
+***Frontend***:
+```
+cd fridge-chef-frontend
+npm install
+```
+***Backend***:
+```
+cd backend
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+```
+4. Set enviroment variables
+Create a .env file in the project directory:
+```
+SPOONACULAR_API_KEY=your_spoonacular_api_key
+GOOGLE_API_KEY=your_gemini_api_key
+```
+6. Run the app locally
+
+
+
 
   
